@@ -14,8 +14,8 @@ The rules of the game are very simple. You need to control all the squares to mo
 
 ##	Get start
 
-1. Download **cocos2d-x library**.
-2. Create folder named "cocos2d" in project dir, then copy all **cocos2d-x library** to this folder.
+1. Download **cocos2d-x library**. [Download Link](https://www.cocos.com/cocos2dx)
+2. Create folder named "**cocos2d**" in project dir, then copy all "**cocos2d-x library**" to this folder.
 3. Compile project for IOS or Android.
 
 
@@ -24,7 +24,7 @@ The rules of the game are very simple. You need to control all the squares to mo
 
 Deploy this game on **iPhone 7plus**
 
-<img src="./demo.png" style="zoom:50%;" />
+<img src="./demo.png" width="300" />
 
 
 
